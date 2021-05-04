@@ -1,8 +1,77 @@
 ---
 sort: 1
 ---
+Some materials are taken from the book “Hands-On-Programming With R” by Garrett Grolemund and online course on Coursera “Statistics with R”
 
-# Markdown Elements
+# Objects
+
+R lets you save data by storing it inside an R object. What’s an object? Just a name that you can use to call up stored data. For example, you can save data into an object like a or b. Wherever R encounters the object, it will replace it with the data saved inside, like so:
+
+You can store numbers in objects, assume that you are paying 300$ for particular month in gas bills.
+
+```
+gas <- 300
+gas
+```
+```
+## [1] 300
+```
+
+Then suddenly fees are decreased.
+
+```
+gas <- 200
+gas
+```
+```
+## [1] 200
+```
+
+Assume that you are also paying for your groceries. Lets compute total expenditures in the month
+
+```
+groceries <- 2000
+groceries
+```
+```
+## [1] 2000
+```
+```
+total = gas + groceries
+total
+```
+```
+## [1] 2200
+```
+
+You can also, store text data in objects. Text data should be in quotes.
+```
+name <- "Aibek"
+```
+You can see which object names you have already used with the function ls()
+```
+ls()
+```
+```
+## [1] "gas"       "groceries" "name"      "total"
+```
+
+# Naming conventions
+
+You can name an object in R almost anything you want, but there are a few rules. First, a name **cannot** start with a number. Second, a name cannot use some special symbols, like ^, !, $, @, +, -, /, or *.
+
+# Continious sequence of numbers 
+
+Objects can also store sequence of numbers. Assume that you have Alex, John, Sam. And their respecive ages are 18,19,20. You can store their ages in the object _ages_.
+
+```
+ages <- 18:20
+ages
+```
+```
+## [1] 4 5 6 7
+```
+
 
 Text can be anything **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
