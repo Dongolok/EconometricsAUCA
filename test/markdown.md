@@ -63,9 +63,9 @@ ls()
 
 You can name an object in R almost anything you want, but there are a few rules. First, a name **cannot** start with a number. Second, a name cannot use some special symbols, like ^, !, $, @, +, -, /, or *.
 
-# Sequence of numbers 
+# Sequence of numbers (Vectors)
 
-## Continious sequence of numbers (Vectors)
+## Continious sequence of numbers 
 
 Objects can also store sequence of numbers. Assume that you have Alex, John, Sam. And their respecive ages are 18,19,20. You can store their ages in the object _ages_.
 
@@ -77,7 +77,7 @@ ages
 ## [1] 18 19 20
 ```
 
-## Discrete sequence of numbers (Vectors)
+## Discrete sequence of numbers
 
 Assume that Alex, John and Sam are respecitvely 17, 23, 25 years old. In the case when we have discrete set of numbers, we can still store this numbers in the object. To do that we need to use special operator __c()__. For example, 
 ```
@@ -116,11 +116,16 @@ df <- Data.Frame(names, ages)
 df
 ```
 We will have output as, 
-| names  | ages |
-| ------- | ------- | 
-| Alex | 17 |
-| John | 23 |
-| Sam | 25 |
+| names   | ages     |
+| ------- | -------- | 
+| Alex    | 17       |
+| John    | 23       |
+| Sam     | 25       |
+
+
+
+
+
 
 Text can be anything **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
