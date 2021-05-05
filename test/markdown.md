@@ -127,7 +127,7 @@ We will have output as,
 
 
 
-Text can be anything **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
+Text can be anything **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com)  be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
 

@@ -64,7 +64,8 @@ colSums(is.na(df))
 .dl-inline>dt, .dl-inline>dd {float: none; width: auto; display: inline-block}
 .dl-inline>dt::after {content: ":\0020"; padding-right: .5ex}
 .dl-inline>dt:not(:first-of-type) {padding-left: .5ex}
-</style><dl class=dl-inline><dt>names</dt><dd>0</dd><dt>wages</dt><dd>1</dd><dt>ages</dt><dd>2</dd></dl>
+</style>
+<dl class=dl-inline><dt>names</dt><dd>0</dd><dt>wages</dt><dd>1</dd><dt>ages</dt><dd>2</dd></dl>
 
 
 
