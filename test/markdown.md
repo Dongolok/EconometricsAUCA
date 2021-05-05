@@ -88,17 +88,20 @@ ages
 ## [1] 17 23 25
 ```
 One can remember usefull mnemonic to remember __c()__ operator as first letter for the word __column__. Basically, when we use operator __c()__ we created one column from spreadsheet by the name __ages__. 
+
 | ages   |
 | ------- | 
 | 17 | 
 | 23 | 
 | 25 | 
+
 R uses fancy name for columns, they are called vectors. So it is safely assume, that vectors are just columns of a spreadsheet.
 
 In the same manner, we can create the column of names.
 ```
 names <- c("Alex", "John", "Sam")
 ```
+
 | names  |
 | ------- | 
 | Alex | 
@@ -116,6 +119,7 @@ df <- Data.Frame(names, ages)
 df
 ```
 We will have output as, 
+
 | names   | ages     |
 | ------- | -------- | 
 | Alex    | 17       |
