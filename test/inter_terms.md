@@ -21,6 +21,12 @@ Let assume that D is the dummy variable 1 if the patient recived vaccination sho
 |Female| Not vaccinated | $$\alpha $$ |
 |Female | Vaccinated |  $$ \alpha + \beta$$ |
 
-| Coefficient | Interpretation |
+| Coefficient |  Interpretation|
 | ---- | ------------|
-| $$\alpha$$ | 
+| $$\alpha$$ | Probability of not vaccinated average female to contract coronovirus after one month |
+| $$ \gamma$$ | Difference in probabilities of contracting coronovirus after one month for not vaccinated males versus females|
+| $$ \beta $$ | Difference in probabilities of contracting coronovirus after one month for vacinated females versus unvaccinated females |
+| $$\delta$$ | Difference in difference between vaccinated males and unvaccinated males versus difference between vaccinated females and unvaccinated females.|
+
+```tip
+$$\delta$$ is here esentially is Difference-in-Difference estimator ``` 
