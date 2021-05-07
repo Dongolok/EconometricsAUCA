@@ -2,25 +2,20 @@
 sort: 10
 ---
 
-# Mathjax Test
+# Comparing two distributions
 
-$$
-\begin{aligned}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{aligned}
-$$
+## Kolmogorov-Smirnov Test
 
-```note
-For documentation, see: https://kramdown.gettalong.org/syntax.html#math-blocks
-```
+In analyzing RCT, we have seen how to test the sharp null,
+and how to test the hypothesis that the treatment has zero
+effect on average.
+We may also be interested in testing the hypothesis that the
+distribution of $$Y (1)$$ and $$Y (0)$$ are different.
+Kolmogorov-Smirnov statistic. let $$X_1, .., X_n$$ be a random
+sample, with CDF F and $$Y_1, .., Y_m$ be a random sample, with
+CDF G
+• We are interested in testing the hypothesis
+$$H_o : F = G$$
+against
+$$H_a : F = G$$
+

@@ -65,7 +65,15 @@ colSums(is.na(df))
 .dl-inline>dt::after {content: ":\0020"; padding-right: .5ex}
 .dl-inline>dt:not(:first-of-type) {padding-left: .5ex}
 </style>
-<dl class=dl-inline><dt>names</dt><dd>0</dd><dt>wages</dt><dd>1</dd><dt>ages</dt><dd>2</dd></dl>
+
+<dl class=dl-inline>
+<dt>names</dt>
+<dd>0</dd>
+<dt>wages</dt>
+<dd>1</dd><
+dt>ages</dt>
+<dd>2</dd>
+</dl>
 
 
 
@@ -79,9 +87,9 @@ You can use statistical function in your code, even if your column has missing v
 mean(df$ages)
 ```
 
-
-&lt;NA&gt;
-
+```
+NA
+```
 
 When we applied mean function to the column df\\$ages we got _<NA>_ as output. This happens, becaues we have missing values in our column df\$ages. We need to omit missing values, we can do that by specifying command,
 
@@ -90,8 +98,8 @@ When we applied mean function to the column df\\$ages we got _<NA>_ as output. T
 mean(df$ages, na.rm = TRUE)
 ```
 
-
+```
 26
-
+```
 
 
