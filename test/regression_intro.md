@@ -31,8 +31,58 @@ $$ y_i = \beta SUCCESS_i + \epsilon_i $$
 - $$\epsilon_i$$ is: an error term (Noise)
 - $$\beta$$ is: the average impact of a successful assassination on y
 
-![table2](/assets/images/hit_or_miss_table2.png)
+
 
 ```note
 You can have in mind, picture where 
-y is just one column in your spreadsheet, that is your outcome variable. X's is the columns that is your data. $$\epsilon$$ is the missing data in your spreadsheet, that describes real formula in the world for the phenomena that you researching by.
+y is just one column in your spreadsheet, that is your outcome variable. X's is the columns that is your data. $$\epsilon$$ is the missing data in your spreadsheet, that describes real formula in the world for the phenomena that you researching by. $$\beta$$ is the coefficient that we are searching for. 
+```
+
+In this simple regression $$\hat{\beta}$$ is just the difference in $$y_i$$ between when
+the attempt succeeds and when it fails, i.e.
+$$\hat{\beta} = E[y | SUCCESS = 1] − E [y | SUCCESS = 0] $$
+
+```tip
+$$\hat{}$$ symbol usually represent estimate of parameter. 
+```
+
+The key assumption that author make in this paper that explanatory variable in this case success and the noise($$\epsilon$$) are uncorrelated. 
+
+```note
+Exogenous variation means that the x'es and the $$\epsilon$$ are uncorrelated.
+```
+
+Why we need "good" variation assumption here(a.k.a exogenous)?
+
+Suppose we calculated
+$$\hat{\beta} = E[y|SUCCESS = 1] − E[y|SUCCESS = 0] $$
+Substituting in that $$y_i = \beta SUCCESS_i + \epsilon_i$$ yields
+$$\hat{\beta} = \beta + E[\epsilon | SUCCESS = 1] − E [\epsilon | SUCCESS = 0] $$
+Thus we required that $$E [\epsilon | SUCCESS = 1] = E [\epsilon | SUCCESS = 0]$$,
+i.e. that $$\epsilon$$ is uncorrelated with SUCCESS, what it means that there is no systematic relationship between success and the realization of the error term $$\epsilon$$.
+Then $$\hat{\beta} = \beta $$.
+That is why in order to get the estimate of the true beta we are requaried for error term to be uncorrelated with explanatory variable.
+
+$$y $$ captures the outocome for the contry to become a democract between the year before the assasination attempt and the year after the assasination attempt.
+
+```note
+You can never check whether your error term is uncorrelated with your explanatory variable. This an assumption that you should make.
+```
+
+![table2](/assets/images/hit_or_miss_table2.png)
+From table 2 we can see that assasination attempts using guns were more successfull, than using bombs. 
+
+![table4](/assets/images/hit_or_miss_table4.png)
+In table 4 authors looks at different variables and look whether they are corellated with success or not. Table 4 shows that countries that have successfull assasination attempt and countries that have failed assasination attempt are dont differ systematically on average. 
+Still the statement that, error term and probability of SUCCESS is uncorrelated, is an  assumption. But you'd say that if they were correlated, then the two groups would have differnt outcomes.
+
+
+We can cotrol in this regression for factor that might create correlation between explanatory variable and error term. 
+Now we want to make assumption whether error term and SUCCESS is uncorrelated conditional what type of weapon you use.
+We control for factors that we can observe in the data, since including this factors, will take out that correlation between explanatory variable and the residual.
+
+The paper restrics data to "serious assasination attempts", where the gun was fired, bomb exploded, etc.
+
+Regression formula:     $$ y_i = \beta SUCCESS_i + \gamma WEAPON_i + \epsilon_i $$, where WEAPON is the dummy variable, from what type of weapon assasination was conducted.
+
+When you include dummy variables in the regression you actually run regression for each category in your dummy variable. For example in the above case, you would run one regression, when the gun was fired, another one when bomb detonated and etc. In the end you find coefficients for each regression and then you simply take weighted average of this coefficients.
