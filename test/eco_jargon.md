@@ -35,3 +35,4 @@ Internal validity means, do we get right coefficints for the sample that we are 
 *External validity*
 External validity means, does our $$\hat{\beta} $$ that we estimated from our sample, still relavant for the larger population.
 ---
+

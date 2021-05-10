@@ -86,3 +86,10 @@ The paper restrics data to "serious assasination attempts", where the gun was fi
 Regression formula:     $$ y_i = \beta SUCCESS_i + \gamma WEAPON_i + \epsilon_i $$, where WEAPON is the dummy variable, from what type of weapon assasination was conducted.
 
 When you include dummy variables in the regression you actually run regression for each category in your dummy variable. For example in the above case, you would run one regression, when the gun was fired, another one when bomb detonated and etc. In the end you find coefficients for each regression and then you simply take weighted average of this coefficients.
+
+![table5](/assets/images/hit_or_miss_table5.png)
+From table 5 we can see that if assasination was successful, then there is 9 _percantage point_ more likely to have a change in outcome.
+Panel B allows us to look separately at successful assasination when you were in an autocracy to begin with and when you were a democracy to begin with. Panel B shows that the country much more likely to beome a democracy if you had a successful assasination attempt in an autocracy, but no change if you are already democratic.
+
+![table7](/assets/images/hit_or_miss_table7.png)
+From table 7 we see that probability of having 

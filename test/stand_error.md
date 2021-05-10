@@ -8,7 +8,7 @@ text: |
   ‘?’“!”(%)[#]{@}/&\<-+÷×=>®©$€£¥¢:;,.*
 ---
 
-# Standard error
+## Standard error
 
 
 The standard error (SE) of a statistic (usually an estimate of a parameter) is the standard deviation of its sampling distribution or an estimate of that standard deviation. 
@@ -57,4 +57,11 @@ F-statistic: 18.08 on 1 and 44 DF,  p-value: 0.0001085
 
 Our estimate $$\hat{beta}$$ is -1.1983, which means that with 1 dollar increase in prices of cigarets, there is -1.19% decrease in consumption of cigaretes. 
 However we need not only to get $$\hat{\beta}$$ estimate, but we also need to know how precies our estimate of $$\hat{\beta}$$ is. To answer this question, we can look at "standard errors" in our regression table. *Standard error* of our estimate is the standard deviation of our estimate $$\hat{\beta}$$ around the truth.
+Standard error basically tells us, how precise our estimate is.
 
+
+## Adjusted $$\bar{R^2}$$
+
+$$\bar{R^2} = 1- \frac{(1-R^2)}{N-k-1}$$, where N is the number of rows in our spreadsheet, k is the number of columns.
+From basic theory of regression we know that number of rows in our table has to be bigger than the number of columns, i.e. $$N\beq k$$.
+Adjusted $$\bar{R^2}$$ is an attempt to account for the phenomenon of the R2 automatically and spuriously increasing when extra explanatory variables are added to the model.
