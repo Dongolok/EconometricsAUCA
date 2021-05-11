@@ -36,3 +36,7 @@ Internal validity means, do we get right coefficints for the sample that we are 
 External validity means, does our $$\hat{\beta} $$ that we estimated from our sample, still relavant for the larger population.
 ---
 
+---
+*Correlation* 
+Correlation is the statistical relationship between two variables(two columns of data). Correlation can take any value between -1 and 1. For example from common sense we know, that the number years of your work experience is positevely correlated with your wages. 
+---
