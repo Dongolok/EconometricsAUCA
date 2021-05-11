@@ -269,6 +269,7 @@ cooking_apple_pie <- function(ingridient1, ingridient2){
 	apple_pie <- cook_food_using_ingridients
 	return apple_pie
 }
+```
 
 As an example, let’s create a function to calculate the length of the hypotenuse of a right-angled triangle.
 
