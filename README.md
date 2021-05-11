@@ -9,7 +9,7 @@ This site is under construction!
 
 ## About
 
-This open source syllabus for 'Econometrics with R' course that is lectured at American University of Central Asia.
+This is syllabus for students to navigate through debris of Econometrics theory. The syllabus is maintainde by Economics Department at American University of Central Asia.
 
 ## Guiding principles
 
@@ -31,6 +31,7 @@ Please feel free to contribute to the project, by pressing edit button at the to
 Some course materials are taken from
 - MITx Data, Economics and Development Policy program
 - [Econometrics Academy](https://www.youtube.com/channel/UCAN7taaPrBLX2LiWbFmJZfw)
+
 
 ## Content
 
