@@ -436,3 +436,15 @@ ggplot(Boston, aes(lstat, medv) ) +
 ```
 
 ![polynomial regression 4th power](/assets/images/pol_regression_1.png)
+
+
+## Quantile regression
+
+Quantile regression is an extension of linear regression used when the conditions of linear regression are not met.
+One advantage of quantile regression relative to ordinary least squares regression is that the quantile regression estimates are more robust against outliers in the response measurements.
+
+```warning
+For quantile regression to be feasible, dependent variable should have not many zeros or repeated values
+```
+
+

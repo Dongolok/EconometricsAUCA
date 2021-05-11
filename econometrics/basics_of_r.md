@@ -201,6 +201,89 @@ mean(df$ages, na.rm = TRUE)
 # 26
 ```
 
+## For loop
+
+For loops command allows your code to run in loops. It makes your code more managable, short and clean.
+
+Lets print the name of our fruits in a basket.
+
+```R
+basket <- c('apple', 'banana', 'pineapple', 'grape', 'orange')
+for(name in basket){
+  print(name)
+}
+```
+
+```
+## [1] "apple"
+## [1] "banana"
+## [1] "pineapple"
+## [1] "grape"
+## [1] "orange"
+```
+
+Let’s add word ‘is fruit’ to each fruit in a loop.
+
+```R
+for(name in basket){
+  print( paste(name,'is fruit'))
+}
+```
+```
+## [1] "apple is fruit"
+## [1] "banana is fruit"
+## [1] "pineapple is fruit"
+## [1] "grape is fruit"
+## [1] "orange is fruit"
+```
+
+Let’s compute total income in a loop.
+
+```R
+income <- c(100, 200, 150, 300, 400, 300)
+total <- 0
+for(item in income){
+  total <- total + item
+}
+print(total)
+```
+```
+## [1] 1450
+```
+
+Picture below shows the way we increment income in a loop. First our initial income `total=0`, then we increment in a loop, using variable `item` that in each loop will take value from our `income` vector.
+![for loop](/assets/images/loop.png)
 
 
+## Functions 
 
+Function is just a word that encapsulates sets of instructions. When you execute your function, you will basically execute your sets of instructions. You can imagine functions as the cooking receipe. 
+The process of cooking consists of:
+ - recipie, which in our case would be block of function encapsulated by a word.
+ - ingridients, which in our case would be `arguments` that we supply to our function
+ - finished cooked food that you need to serve, which in our case would be returned result from our function. 
+The basic syntaxis of any function looks as follows,
+
+```R
+cooking_apple_pie <- function(ingridient1, ingridient2){
+	apple_pie <- cook_food_using_ingridients
+	return apple_pie
+}
+
+As an example, let’s create a function to calculate the length of the hypotenuse of a right-angled triangle.
+
+```R
+hypotenuse <- function(a, b) {
+    c <- sqrt(a^2+b^2)
+    return(c)
+    }
+```
+
+Let's compute length of hypotenuse of triangle with sides 3 and 4.
+
+```R
+hypotenuse(3,4)
+```
+```
+5
+```
