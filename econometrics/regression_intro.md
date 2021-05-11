@@ -92,4 +92,20 @@ From table 5 we can see that if assasination was successful, then there is 9 _pe
 Panel B allows us to look separately at successful assasination when you were in an autocracy to begin with and when you were a democracy to begin with. Panel B shows that the country much more likely to beome a democracy if you had a successful assasination attempt in an autocracy, but no change if you are already democratic.
 
 ![table7](/assets/images/hit_or_miss_table7.png)
-From table 7 we see that probability of having 
+From table 7 we see that possibility of war increases on average after following successful attempt than following failures. 
+
+## Do Leaders Matter? National Leadership and Growth Since World War II.
+[Link to the paper](https://economics.mit.edu/files/2915)
+
+- Unfortunately, economic growth data only start in 1950, and for most countries, it only starts in 1960 or 1970.
+- There are not enough assassination attempts during that period(especially in autocratic regimes) to really be of much use
+- So here we use a different approach: we consider deaths of leaders either in accidents or by natural causes.
+
+Methodology:
+ - Compare economic growth rates 5 years before the death of the leader with 5 years after
+ - Ask: in general, are the changes in growth rates over the 5-5 year intervals when leaders die larger than what would be predicted by random chance?
+
+Findings:
+- Leaders matter
+- But only in autocracies, not democracies
+- Random leader changes affect inflation

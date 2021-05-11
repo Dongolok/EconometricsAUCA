@@ -1,6 +1,11 @@
 # Syllabus on doing econometrics with R
 
-![AUCA](https://auca.kg/uploads/PR%20NEWS/open%20house/Screen%20Shot%202019-01-16%20at%204.16.54%20PM.png)
+![AUCA](/assets/images/auca.png)
+
+
+```warning
+This site is under construction!
+```
 
 ## About
 
@@ -13,10 +18,22 @@ This open source syllabus for 'Econometrics with R' course that is lectured at A
 - Intuition better than formulas
 - Simple words better scientific jargon
 
+## Software 
+
+You can use [Kaggle](https://www.kaggle.com) online platform to try some codeblock from materials. 
+
+## Contribution
+
+Please feel free to contribute to the project, by pressing edit button at the top right corner of the website or by sending me email at ilias.suvanov@gmail.com
 
 ## Course materials
 
 Some course materials are taken from
 - MITx Data, Economics and Development Policy program
+- [Econometrics Academy](https://www.youtube.com/channel/UCAN7taaPrBLX2LiWbFmJZfw)
+
+## Content
+
+{% include list.liquid all=true %}
 
 
