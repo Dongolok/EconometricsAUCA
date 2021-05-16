@@ -18,3 +18,7 @@ For example, if you want to research how sugary drink affect prevalence of diabe
 Watch the presentation to better understand what is RCT.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zvrGiPkVcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Methods
+
+[Library of practical resources made by J-PAL.](https://www.povertyactionlab.org/research-resources?view=toc)
