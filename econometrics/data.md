@@ -4,7 +4,7 @@ sort: 14
 
 # Data
 
-There is variety of data collected by various organizations. This page will proved usefull links to this datasources.
+There is variety of data collected by various organizations. 
 
 - [World Bank Microdata catalog](https://microdata.worldbank.org/index.php/catalog)
 
