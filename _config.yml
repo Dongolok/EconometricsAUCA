@@ -1,4 +1,4 @@
-title: Easy Econometrics 
+title: Easy Econometrics
 description: This syllabus is maintained by AUCA Economics department
 
 theme: jekyll-theme-merlot
@@ -29,3 +29,7 @@ exclude:
   - package-lock.json
   - webpack.config.js
   - jekyll-rtd-theme.gemspec
+
+
+disqus:
+  shorname: auca-data-center
