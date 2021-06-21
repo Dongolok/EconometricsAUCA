@@ -34,6 +34,10 @@ Email: suvanov_il@auca.kg
 ## Course schedule
 Course schedule  is every Tuesday, Thursday, Saturday at 18.30. Though exact timing will be disscussed with course participants.
 
+## Course materials
+[Essential Graphs for Microeconomics](https://ungerecon.weebly.com/uploads/2/0/8/8/2088048/essentialgraphsformicroeconomics.pdf)
+[Principles of Microeconomics](https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics2e-OP.pdf)
+
 ## Lectures/Seminars
 
 - Week 1&2: Introduction
