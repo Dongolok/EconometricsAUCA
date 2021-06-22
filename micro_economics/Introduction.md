@@ -1,7 +1,21 @@
-# Week 1 Introduction
-source: `{{ page.path }}`
+---
+sort: 1
+---
+
+# Introduction
+
+
+The word economy comes from the Greek word for “one who manages a household.” At first, this origin might seem peculiar. But, in fact, households and
+economies have much in common.
+A household faces many decisions. It must decide which members of the
+household do which tasks and what each member gets in return: Who cooks dinner? Who does the laundry? Who gets the extra dessert at dinner? Who gets to
+choose what TV show to watch? In short, the household must allocate its scarce resources among its various members, taking into account each member’s abilities,
+efforts, and desires.
+
 
 Economics may have a reputation as a dismal science, but in fact it addresses some of the most fundamental problems we face: How to make the best decision given that resources are limited. You can use the tools of microeconomics to decide how best to spend your income; how best to divide your time among leisure activities; or how many people to hire in the business you run. Life is full of choices. Microeconomics can help you decide how to make them.
+
+
 
 ## What is microeconomics?
 Microeconomics is about constrained optimization.

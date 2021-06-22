@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Content
+# Econometrics
 
 
 {% include list.liquid all=true %}

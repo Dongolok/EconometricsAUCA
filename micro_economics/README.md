@@ -1,42 +1,33 @@
 ---
-sort: 2
 comments: true
 ---
 
 # Microeconomics
 
 
-```note
-Please feel free to join to the course [telegram group](https://t.me/joinchat/PC4ia_hXVaIxZTcy)
-```
-
-
-Materials are taken from the great book N. Gregory Mankiw Principles of Microeconomics
-
-## What is microeconomics
-The word economy comes from the Greek word for “one who manages a household.” At first, this origin might seem peculiar. But, in fact, households and
-economies have much in common.
-A household faces many decisions. It must decide which members of the
-household do which tasks and what each member gets in return: Who cooks dinner? Who does the laundry? Who gets the extra dessert at dinner? Who gets to
-choose what TV show to watch? In short, the household must allocate its scarce resources among its various members, taking into account each member’s abilities,
-efforts, and desires
 
 ## Course Description
 This course provides a thorough introduction to microeconomic theory. We will start with the basics of Calculus in order to work with Microeconomics models. Then, we will look at the basic ideas of tradeoffs, opportunity cost, and the benefits of trade, we will study how the market forces of supply and demand cause prices to be what they are. We will see the sense in which market economies are efficient, and the way governments can make our economy less or more efficient. We will delve behind the supply curve to see how firms choose their production levels to maximize profits, culminating in the model of perfect competition.
 
 ## Course metadata
-Instructor: Ilias Suvanov
-
-Email: suvanov_il@auca.kg
-
-[Contact me](https://t.me/ilka2019)
+- Instructor: Ilias Suvanov
+- Email: suvanov_il@auca.kg
+- [Contact me](https://t.me/ilka2019)
+- [Zoom link](https://zoom.us/j/93811785966?pwd=d3I2cDlMMFRUdDFVcTJtYWhJa0hQdz09)
+- [Gradebook](https://docs.google.com/spreadsheets/d/1p3BkXIsu_efolhlD7_9Ox0yWMbYO2YP-O5CXB9CToAc/edit?usp=sharing)
+- [telegram group](https://t.me/joinchat/PC4ia_hXVaIxZTcy)
 
 ## Course schedule
 Course schedule  is every Tuesday, Thursday, Saturday at 18.30. Though exact timing will be disscussed with course participants.
 
 ## Course materials
-[Essential Graphs for Microeconomics](https://ungerecon.weebly.com/uploads/2/0/8/8/2088048/essentialgraphsformicroeconomics.pdf)
-[Principles of Microeconomics](https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics2e-OP.pdf)
+Main materials are taken from:
+- the Prof. Jonathan Gruber course Principle of Economics
+- Perloff Microeconomics
+- Perloff Microeconomics with calculus
+- [Essential Graphs for Microeconomics](https://ungerecon.weebly.com/uploads/2/0/8/8/2088048/essentialgraphsformicroeconomics.pdf)
+- [Principles of Microeconomics](https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics2e-OP.pdf)
+- N. Gregory Mankiw Principles of Microeconomics
 
 ## Lectures/Seminars
 
@@ -70,15 +61,16 @@ Course schedule  is every Tuesday, Thursday, Saturday at 18.30. Though exact tim
 
 ## Grading
 
+Please refer to [Gradebook](https://docs.google.com/spreadsheets/d/1p3BkXIsu_efolhlD7_9Ox0yWMbYO2YP-O5CXB9CToAc/edit?usp=sharing) for detailed and uptodate information on the grading.
+
 - Participiation - 20 points
 - Attendance - 20 points
 - Homeworks - 30 points
 - Midterm - 15 points
 - Final 15 points
 
-
-| A     | A-    | B+    | A     | A-    | B+    | C    | C-   |D     | F    |
-| ----- | ----- | ----- | ----- | ----- | ----- |----- |----- |----- |----- |
-| More 85 | 80-84  | 75-79 | 70-74 | 65-69  | 60-64 |55-59|50-54| 45-49 |less than 45|
+```warning
+Instructor reserves the right to require any course participant to sit for an individual oral examination (with turned on webcam and mic) before submitting the final grade to the registrar. Refusal to sit for an individual oral examination by a course participant, may result in failing the course. Instructor will notify potential course participants about the oral examination one week prior the course completion.
+```
 
 
