@@ -9,12 +9,12 @@ Supply and Demand are two forces in the market that jointly decides what quantit
 ## Markets
 
 ```mermaid
-graph TB
+graph TB;
     Producers-->MarketSupply;
     subgraph one;
     end;
     subgraph two;
-    Cosumers-->Market Demand;
+    Cosumers-->MarketDemand;
     end;
 ```
 
@@ -114,3 +114,5 @@ goods are sold may be no higher than $$\bar{p}$$.
 ```note
 We care about excess demand because it is the inefficient outcome, there also allocation problems. But the price ceiling gives us equity.
 ```
+
+**Question:** Assume that there is the shock either from demand or supply, after the schock happend, could you know, whether quantity of goods sold diminished or increased only by knowing price change?

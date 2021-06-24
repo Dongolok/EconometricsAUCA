@@ -57,3 +57,29 @@ in the price. The price elasticity of supply (represented by $$\eta$$, the Greek
 ### Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wi1x3sYHU6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## Example
+
+![Elasticity of demand]({{site.baseurl}}/assets/images/elas_demand_shape.png)
+
+
+Amazon prime example
+
+Appstore vs Google apps store
+
+## Problem
+
+The estimated equation for the linear U.S. corn demand curve is $$Q = 15.6 - 0.5p$$,
+where p is the price in dollars per bushel and Q is the quantity demanded in billion
+bushels per year. What is the elasticity of demand at the point on the demand curve
+where the price is $$p = 7.20$$ per bushel?
+
+```note
+The shape of the demand curve depends on the relevant period. Consequently, a
+short-run elasticity may differ substantially from a long-run elasticity.
+(Oil prices, frozen goods)
+```
+
+## Equilibrium effects on specific tax
+
+![eff tax]({{site.baseurl}}/assets/images/spec_tax.png)
