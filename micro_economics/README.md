@@ -4,7 +4,8 @@ comments: true
 
 # Microeconomics
 
-
+## Content
+{% include list.liquid all=true %}
 
 ## Course Description
 This course provides a thorough introduction to microeconomic theory. We will start with the basics of Calculus in order to work with Microeconomics models. Then, we will look at the basic ideas of tradeoffs, opportunity cost, and the benefits of trade, we will study how the market forces of supply and demand cause prices to be what they are. We will see the sense in which market economies are efficient, and the way governments can make our economy less or more efficient. We will delve behind the supply curve to see how firms choose their production levels to maximize profits, culminating in the model of perfect competition.

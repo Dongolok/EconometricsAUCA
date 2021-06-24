@@ -10,12 +10,12 @@ Supply and Demand are two forces in the market that jointly decides what quantit
 
 ```mermaid
 graph TB
-    Producers-->MarketSupply
-    subgraph one
-    end
-    subgraph two
-    Cosumers-->Market Demand
-    end
+    Producers-->MarketSupply;
+    subgraph one;
+    end;
+    subgraph two;
+    Cosumers-->Market Demand;
+    end;
 ```
 
 ```note
@@ -46,12 +46,12 @@ Let's show this in a demand schedule, with some additional fictitious datapoints
 | 3 | 50 |
 | 4 | 20 |
 
-![demand curve](/assets/images/demand.png)
+![demand curve](/EconometricsAUCA/assets/images/demand.png)
 
 
 ### Demand for cofee
 
-![demand for coffee](/assets/images/demand_coffee.png)
+![demand for coffee](/EconometricsAUCA/assets/images/demand_coffee.png)
 
 ----
 
@@ -59,7 +59,7 @@ Let's show this in a demand schedule, with some additional fictitious datapoints
 
 Supply provided is the quantity of the good and services that firms are willing to provide at the given price.
 
-![supply for coffee](/assets/images/supply_coffee.png)
+![supply for coffee](/EconometricsAUCA/assets/images/supply_coffee.png)
 
 ```warning
 Although the Law of Demand states that the demand curve slope downward, we
@@ -90,11 +90,11 @@ amount that consumers buy and suppliers sell at the equilibrium price
 The equilibrium price and quantity are also sometimes called the __market-clearing price__ and quantity. If all the buyers and sellers gathered together in a single marketplace, and buyers purchased as much as they were willing and able to at the equilibrium price, then the each buyer and seller would finish their business and go home for the day. There would be nobody left in the market trying fruitlessly to buy or sell additional goods at that price. Thus, this market is said to have __cleared__.
 ```
 
-![market equillibrium](/assets/images/market_eq.png)
+![market equillibrium](/EconometricsAUCA/assets/images/market_eq.png)
 
 ### Schocks to Demand and Supply
 
-![Schocks to market equilibrium](/assets/images/market_eq_shocks.png)
+![Schocks to market equilibrium](/EconometricsAUCA/assets/images/market_eq_shocks.png)
 
 
 ### Price floor
@@ -103,13 +103,13 @@ example, governments may control prices directly, a policy that leads to either 
 supply or excess demand if the price the government sets differs from the equilibrium
 price. When the government sets a price floor at $$\underline{p}$$, the price at which goods are sold may not fall below $$\underline{p}$$.
 
-![minimum wage](/assets/images/minimum_wage.png)
+![minimum wage](/EconometricsAUCA/assets/images/minimum_wage.png)
 
 ### Price ceiling
 When the government sets a price ceiling at $$\bar{p}$$, the price at which
 goods are sold may be no higher than $$\bar{p}$$.
 
-![Price floors to market equilibrium](/assets/images/price_floor_gasoline.png)
+![Price floors to market equilibrium](/EconometricsAUCA/assets/images/price_floor_gasoline.png)
 
 - Cost-benefit analysis of people's time worth
 
