@@ -49,7 +49,7 @@ Let's show this in a demand schedule, with some additional fictitious datapoints
 
 ### Demand for cofee
 
-![demand for coffee](./assets/images/demand_coffee.png)
+![demand for coffee]({{site.baseurl}}/assets/images/demand_coffee.png)
 
 ----
 
