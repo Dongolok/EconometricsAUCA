@@ -65,7 +65,7 @@ You can name an object in R almost anything you want, but there are a few rules.
 
 ## Sequence of numbers (Vectors)
 
-### Continious sequence of numbers 
+### Continious sequence of numbers
 
 Objects can also store sequence of numbers. Assume that you have Alex, John, Sam. And their respecive ages are 18,19,20. You can store their ages in the object _ages_.
 
@@ -79,7 +79,7 @@ ages
 
 ### Discrete sequence of numbers
 
-Assume that Alex, John and Sam are respecitvely 17, 23, 25 years old. In the case when we have discrete set of numbers, we can still store this numbers in the object. To do that we need to use special operator __c()__. For example, 
+Assume that Alex, John and Sam are respecitvely 17, 23, 25 years old. In the case when we have discrete set of numbers, we can still store this numbers in the object. To do that we need to use special operator __c()__. For example,
 ```
 ages <- c(17, 23, 25)
 ages
@@ -87,13 +87,13 @@ ages
 ```
 ## [1] 17 23 25
 ```
-One can remember usefull mnemonic to remember __c()__ operator as first letter for the word __column__. Basically, when we use operator __c()__ we created one column from spreadsheet by the name __ages__. 
+One can remember usefull mnemonic to remember __c()__ operator as first letter for the word __column__. Basically, when we use operator __c()__ we created one column from spreadsheet by the name __ages__.
 
 | ages   |
-| ------- | 
-| 17 | 
-| 23 | 
-| 25 | 
+| ------- |
+| 17 |
+| 23 |
+| 25 |
 
 R uses fancy name for columns, they are called vectors. So it is safely assume, that vectors are just columns of a spreadsheet.
 
@@ -103,10 +103,10 @@ names <- c("Alex", "John", "Sam")
 ```
 
 | names  |
-| ------- | 
-| Alex | 
-| John | 
-| Sam | 
+| ------- |
+| Alex |
+| John |
+| Sam |
 
 ## Dataframes
 What is dataframe? Data is nothing more than just the spreadsheet.
@@ -118,10 +118,10 @@ names <- c("Alex", "John", "Sam")
 df <- Data.Frame(names, ages)
 df
 ```
-We will have output as, 
+We will have output as,
 
 | names   | ages     |
-| ------- | -------- | 
+| ------- | -------- |
 | Alex    | 17       |
 | John    | 23       |
 | Sam     | 25       |
@@ -252,16 +252,17 @@ print(total)
 ```
 
 Picture below shows the way we increment income in a loop. First our initial income `total=0`, then we increment in a loop, using variable `item` that in each loop will take value from our `income` vector.
+
 ![for loop](/assets/images/loop.png)
 
 
-## Functions 
+## Functions
 
-Function is just a word that encapsulates sets of instructions. When you execute your function, you will basically execute your sets of instructions. You can imagine functions as the cooking receipe. 
+Function is just a word that encapsulates sets of instructions. When you execute your function, you will basically execute your sets of instructions. You can imagine functions as the cooking receipe.
 The process of cooking consists of:
  - recipie, which in our case would be block of function encapsulated by a word.
  - ingridients, which in our case would be `arguments` that we supply to our function
- - finished cooked food that you need to serve, which in our case would be returned result from our function. 
+ - finished cooked food that you need to serve, which in our case would be returned result from our function.
 The basic syntaxis of any function looks as follows,
 
 ```R

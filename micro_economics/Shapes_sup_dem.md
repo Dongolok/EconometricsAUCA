@@ -4,6 +4,27 @@ sort: 3
 
 # Shapes of Supply and Demand curve
 
+We have looked at market equilibrium and shifts in quantity and price of goods that are sold under the market shock. We discussed only qualitative part of shifts. We have not disscussed the magnintude in the change of prices and quantities of goods sold.
+
+```note
+Shapes of supply and demand curve determine **how much** a price and quantity changes under the shock.
+```
+
+```note
+Perfectly inelastic demand means the demand does not change under any circumstances.
+```
+
+There is no goods in real-life that are perfectly inelasic.
+
+
+```note
+Perfectly elastic demand is the demand for the good, when people are ready to pay a given price and no penny more. If the good will be one penny cheaper, buyers will buy infinite amount.
+```
+
+
+
+
+
 ## Price elasticity of Demand
 
 The price **elasticity of demand** (or in common use, the elasticity of demand) is the
