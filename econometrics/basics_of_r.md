@@ -253,7 +253,7 @@ print(total)
 
 Picture below shows the way we increment income in a loop. First our initial income `total=0`, then we increment in a loop, using variable `item` that in each loop will take value from our `income` vector.
 
-![for loop](/assets/images/loop.png)
+![for loop]({{site.baseurl}}/assets/images/loop.png)
 
 
 ## Functions

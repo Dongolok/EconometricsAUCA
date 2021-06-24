@@ -34,8 +34,8 @@ $$ y_i = \beta SUCCESS_i + \epsilon_i $$
 
 
 ```note
-You can have in mind, picture where 
-y is just one column in your spreadsheet, that is your outcome variable. X's is the columns that is your data. $$\epsilon$$ is the missing data in your spreadsheet, that describes real formula in the world for the phenomena that you researching by. $$\beta$$ is the coefficient that we are searching for. 
+You can have in mind, picture where
+y is just one column in your spreadsheet, that is your outcome variable. X's is the columns that is your data. $$\epsilon$$ is the missing data in your spreadsheet, that describes real formula in the world for the phenomena that you researching by. $$\beta$$ is the coefficient that we are searching for.
 ```
 
 In this simple regression $$\hat{\beta}$$ is just the difference in $$y_i$$ between when
@@ -43,10 +43,10 @@ the attempt succeeds and when it fails, i.e.
 $$\hat{\beta} = E[y | SUCCESS = 1] − E [y | SUCCESS = 0] $$
 
 ```tip
-$$\hat{}$$ symbol usually represent estimate of parameter. 
+$$\hat{}$$ symbol usually represent estimate of parameter.
 ```
 
-The key assumption that author make in this paper that explanatory variable in this case success and the noise($$\epsilon$$) are uncorrelated. 
+The key assumption that author make in this paper that explanatory variable in this case success and the noise($$\epsilon$$) are uncorrelated.
 
 ```note
 Exogenous variation means that the x'es and the $$\epsilon$$ are uncorrelated.
@@ -69,15 +69,15 @@ $$y $$ captures the outocome for the contry to become a democract between the ye
 You can never check whether your error term is uncorrelated with your explanatory variable. This an assumption that you should make.
 ```
 
-![table2](/assets/images/hit_or_miss_table2.png)
-From table 2 we can see that assasination attempts using guns were more successfull, than using bombs. 
+![table2]({{site.baseurl}}/assets/images/hit_or_miss_table2.png)
+From table 2 we can see that assasination attempts using guns were more successfull, than using bombs.
 
-![table4](/assets/images/hit_or_miss_table4.png)
-In table 4 authors looks at different variables and look whether they are corellated with success or not. Table 4 shows that countries that have successfull assasination attempt and countries that have failed assasination attempt are dont differ systematically on average. 
+![table4]({{site.baseurl}}/assets/images/hit_or_miss_table4.png)
+In table 4 authors looks at different variables and look whether they are corellated with success or not. Table 4 shows that countries that have successfull assasination attempt and countries that have failed assasination attempt are dont differ systematically on average.
 Still the statement that, error term and probability of SUCCESS is uncorrelated, is an  assumption. But you'd say that if they were correlated, then the two groups would have differnt outcomes.
 
 
-We can cotrol in this regression for factor that might create correlation between explanatory variable and error term. 
+We can cotrol in this regression for factor that might create correlation between explanatory variable and error term.
 Now we want to make assumption whether error term and SUCCESS is uncorrelated conditional what type of weapon you use.
 We control for factors that we can observe in the data, since including this factors, will take out that correlation between explanatory variable and the residual.
 
@@ -87,12 +87,12 @@ Regression formula:     $$ y_i = \beta SUCCESS_i + \gamma WEAPON_i + \epsilon_i 
 
 When you include dummy variables in the regression you actually run regression for each category in your dummy variable. For example in the above case, you would run one regression, when the gun was fired, another one when bomb detonated and etc. In the end you find coefficients for each regression and then you simply take weighted average of this coefficients.
 
-![table5](/assets/images/hit_or_miss_table5.png)
+![table5]({{site.baseurl}}/assets/images/hit_or_miss_table5.png)
 From table 5 we can see that if assasination was successful, then there is 9 _percantage point_ more likely to have a change in outcome.
 Panel B allows us to look separately at successful assasination when you were in an autocracy to begin with and when you were a democracy to begin with. Panel B shows that the country much more likely to beome a democracy if you had a successful assasination attempt in an autocracy, but no change if you are already democratic.
 
-![table7](/assets/images/hit_or_miss_table7.png)
-From table 7 we see that possibility of war increases on average after following successful attempt than following failures. 
+![table7]({{site.baseurl}}/assets/images/hit_or_miss_table7.png)
+From table 7 we see that possibility of war increases on average after following successful attempt than following failures.
 
 ## Do Leaders Matter? National Leadership and Growth Since World War II.
 [Link to the paper](https://economics.mit.edu/files/2915)
