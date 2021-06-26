@@ -82,4 +82,31 @@ short-run elasticity may differ substantially from a long-run elasticity.
 
 ## Equilibrium effects on specific tax
 
+```note
+Tax incidence means who bears the burden of taxation.
+```
+
+```tip
+Economic burden of the tax typically differs from who gets taxed, because market reacts to the tax.
+```
+
+Statuatory tax incidence $$\neq$$ Economic tax incidence. \
+The price responses in the market
+are going to work to counteract the statutory burdens of who
+the tax is imposed on.\
+Let' defince Consumer Tax Bruden as $$(p_{post}-p_{pre})+ \text{tax payment per unit}$$. \
+Producer Tax Burden $$(p_{pre}-p_{post})+\text{tax payment per unit}$$
+
+
+Whether the goverment will tax consumers or producers, it is irrelevant to economic tax incidence.
+
+
 ![eff tax]({{site.baseurl}}/assets/images/spec_tax.png)
+
+
+Question: Deputy A suggests taxing 1$ corn producers for every bushel they sell, deputy B suggests taxing 1$ corn consumers for every bushel they buy. Whom we should support?
+
+
+## Economic incidence is determined by elasticities
+
+![econ incid elast]({{site.baseurl}}/assets/images/econ_incid_tax_elast.png)
