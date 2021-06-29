@@ -93,8 +93,46 @@ personal budget constraint.
 ![Budget]({{site.baseurl}}/assets/images/budget_cons.png)
 
 
+
 The slope of the budget line is called the __marginal rate of transformation (MRT)__:
 the trade-off the market imposes on the consumer in terms of the amount of one good
 the consumer must give up to purchase more of the other good:
 
 $$MRT = \frac{-P_z}{P_B}$$
+
+
+```note
+Marginal rate
+of substitution is the rate at which you desired to trade off pizza for movies staying indifferent. The marginal rate of transformation is the rate at which the market allows you
+to trade off pizza for movies.
+```
+Marginal rate of substitution is about your tastes.
+It's about the rate at which you desire
+to trade one off for the other.
+The marginal rate of transformation is about the market conditions.
+It's the rate at which the market allows you to trade off
+one for the other.
+
+Opprotunity cost is the value of the next best forgone alternative.
+
+## Changes to budget constaraints
+
+![change to budget]({{site.baseurl}}/assets/images/changes_to_budget.png)
+
+## Constrained Choice
+
+![constrained choice]({{site.baseurl}}/assets/images/constr_opt.png)
+
+
+### Exercise
+
+Nate’s utility function over jelly, J, and peanut butter, N, is U = JN. Nate’s marginal utility from jelly is MUJ = N, and his marginal utility from peanut butter is
+MU
+N = J.15 The price of a jar of jelly is $5. The price of a jar of peanut butter is
+$10. Nate has a budget of $100 to allocate to these two items. If Nate maximizes
+his utility, how much of each good does he consume?
+Answer
+1. Derive Nate’s budget line by setting his expenditure equal to his budget. The expenditure on each item is its price times the amount consumed, so Nate’s budget, 100, equals the sum of the expenditures on these two goods: 100 = 5J + 10N.
+2. Use Equation 4.8 to find the relationship between N and J. Equation 4.8 states that Nate maximizes his utility if he equalizes his marginal utility per dollar across jelly and peanut butter: MUJ/5 = MUN/10. That is, N/5 = J/10 or N = J/2.
+3. Substitute this utility-maximizing condition into the budget equation to determine J and N. Substituting this optimality condition into the budget constraint, we learn that 100 = 5J + 10N = 5J + 10(J/2) = 10J. Solving this expression for J, we find that J = 10.
+4. Substitute the solution for J into the budget line to solve for N. Substituting J = 10 into the budget constraint, we learn that 100 = 5J + 10N = 50 + 10N, or 50 = 10N, or N = 5. Thus, Nate’s utility-maximizing bundle is ten jars of jelly, J = 10, and five jars of peanut butter, N = 5
