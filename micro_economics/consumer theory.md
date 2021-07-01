@@ -121,7 +121,31 @@ Opprotunity cost is the value of the next best forgone alternative.
 
 ## Constrained Choice
 
+
+
+When we choose a point, we are thinking od marginal decisions. Whether we should have next pizza, or should we have next movie?
+
+$$MRS =\frac{-MU_{A}}{MU_{B}}$$, is the amount of A that will be given up for obtaining each additional unit of B.
+
+At the optimum bundle(point) the marginal rate of substitution
+equal to the marginal rate of transformation. In other words the rate
+at which you'd like to trade off pizza for movies should be equal
+to the rate at which the market is allowing you to trade off
+pizza for movies.
+
+
 ![constrained choice]({{site.baseurl}}/assets/images/constr_opt.png)
+
+
+## Corner solution
+
+We end up with optimal bundle that is combination of two goods, but in some cases  a consumer will end up just with one good.
+
+![corner solution]({{site.baseurl}}/assets/images/corner_solution.png)
+
+### Food stamps
+
+![food stamps]({{site.baseurl}}/assets/images/food_stamps.png)
 
 
 ### Exercise
@@ -136,3 +160,53 @@ Answer
 2. Use Equation 4.8 to find the relationship between N and J. Equation 4.8 states that Nate maximizes his utility if he equalizes his marginal utility per dollar across jelly and peanut butter: MUJ/5 = MUN/10. That is, N/5 = J/10 or N = J/2.
 3. Substitute this utility-maximizing condition into the budget equation to determine J and N. Substituting this optimality condition into the budget constraint, we learn that 100 = 5J + 10N = 5J + 10(J/2) = 10J. Solving this expression for J, we find that J = 10.
 4. Substitute the solution for J into the budget line to solve for N. Substituting J = 10 into the budget constraint, we learn that 100 = 5J + 10N = 50 + 10N, or 50 = 10N, or N = 5. Thus, Nate’s utility-maximizing bundle is ten jars of jelly, J = 10, and five jars of peanut butter, N = 5
+
+## Demand Curve
+
+### Deriving Demand Curve
+
+![Deriving demand curve]({{site.baseurl}}/assets/images/deriving_demand_curve.png)
+
+
+### Shock of Income to Demand Curve
+
+![engel curve]({{site.baseurl}}/assets/images/engel_curve.png)
+
+Income elasticity of Dmenad $$\xi= \frac{\Delta Q/ Q}{\Delta Y/ Y}$$
+
+Most goods, like cars and food, have positive income elasticities. A good is called
+a **normal good** if as much or more of it is demanded as income rises. Thus, a good is
+a **normal good** if its income elasticity is greater than or equal to zero: $$\xi \geq 0$$.
+
+
+Some goods, however, have negative income elasticities: $$\xi < 0$$. A good is called
+an **inferior good** if less of it is demanded as income rises. We are not making a value
+judgment when we say a good is inferior. An inferior good need not be defective or
+of low quality. Some of the better-known examples of inferior goods are foods such
+as potatoes and cassava that very poor people typically eat in large quantities. Some
+economists—apparently seriously—claim that human meat is an inferior good: Only
+when the price of other foods is very high and people are starving will they turn to
+cannibalism. Bezmen and Depken (2006) estimate that pirated goods are inferior: a
+1% increase in per-capita income leads to a 0.25% reduction in piracy.\
+
+Another strange example concerns treating children as a consumption good. Even
+though people can’t buy children in a market, people can decide how many children
+to have. Guinnane (2011) surveyed the literature and reported that most studies find
+that the income elasticity for the number of children in a family is negative but close
+to zero. Thus, the number of children demanded is not very sensitive to income.
+
+**Luxuries** are the goods that have $$\xi >1 $$ and **necessities** are the goods that have $$\xi < 1$$.
+
+### Fast food engel curve
+
+![fast food engel curve]({{site.baseurl}}/assets/images/fast_food_engel_curve.png)
+
+
+### Income effects and Substitution effects
+
+When the price goes up the demand for good goes down. It is happening from two differnt effects, namely income effect and substitution effect. \
+    The **substitution effect** is, when a price goes up, how much less of that good
+do you want, holding your utility constant.
+    The income effect is, how much less of the good do you want because you are having less money.
+
+![substitution and income effect]({{site.baseurl}}/assets/images/inc_effect.png)
