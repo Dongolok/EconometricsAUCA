@@ -206,7 +206,42 @@ to zero. Thus, the number of children demanded is not very sensitive to income.
 
 When the price goes up the demand for good goes down. It is happening from two differnt effects, namely income effect and substitution effect. \
     The **substitution effect** is, when a price goes up, how much less of that good
-do you want, holding your utility constant.
-    The income effect is, how much less of the good do you want because you are having less money.
+do you want, holding your utility constant.\
+    The **income effect** is, how much less of the good do you want because you are having less money.
 
 ![substitution and income effect]({{site.baseurl}}/assets/images/inc_effect.png)
+
+
+### Inferior good
+
+If a good is inferior, the income effect and the substitution effect move in opposite
+directions. For most inferior goods, the income effect is smaller than the substitution
+effect. As a result, the total effect moves in the same direction as the substitution
+effect, but the total effect is smaller. However, if the income effect more than offsets
+the substitution effect, we have a **Giffen good**, for which a decrease in its price causes the quantity demanded to fall. \
+
+Jensen and Miller (2008) showed that rice is a Giffen good in Hunan, China.
+Ximing, a typical inhabitant of Hunan, views rice as a Giffen good. A fall in the rice
+price saves him money that he spends on other goods. Indeed, he decides to increase
+his spending on other goods even further by buying less rice. Thus, his demand curve
+for this Giffen good has an upward slope. \
+
+However, the Law of Demand (Chapter 2) says that demand curves slope downward. You’re no doubt wondering how I’m going to worm my way out of this apparent contradiction. The answer is that I said that we believe in the Law of Demand
+because we do not observe upward sloping demand curves, not because our theory
+says that it must be true. It is theoretically possible for a demand curve to slope
+upward, but other than rice consumption in Hunan, China, economists have found
+few real-world examples of Giffen goods.
+
+## Labor Supply
+
+![]({{site.baseurl}}/assets/images/labor.png)
+
+### Tax rate
+
+![]({{site.baseurl}}/assets/images/tax_rate.png)
+
+### Child Labor
+
+![]({{site.baseurl}}/assets/images/child_labor.png)
+
+![]({{site.baseurl}}/assets/images/child_labor1.png)
