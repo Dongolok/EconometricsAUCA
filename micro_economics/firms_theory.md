@@ -60,3 +60,70 @@ which yield the same level of output.
 
 
 ### Returns to scale
+
+- Constant returns to scale $$ F(2L, 2K) = 2 F(L,K)$$
+- Increasing returns to scale $$ F(2L, 2K) > 2F(L,K) $$. Example of when firm could exhibit IRS, is when firm start specializing in producing of products.
+- Decreasing returns to scale $$ F(2L, 2K) < 2 F(L,K) $$. Example of when firm could exhibit DRS, is when firm gets bigger it is harder to manage employees hence productivity falls down.
+
+### Productivity
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W8XOF3SOu8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/obRG-2jurz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Costs
+
+**Fixed cost** (FC) is a production expense that
+does not vary with output. \
+
+**variable cost** (VC) a production expense that changes with the quantity
+of output produced. \
+
+**Cost** (total cost, TC) the sum of a firm’s variable cost and fixed cost:
+$$TC = FC + VC$$. \
+
+**Marginal cost** (MC) the amount by which a firm’s cost changes if the firm produces one more
+unit of output. $$ MC = \frac{\Delta C}{\Delta q}$$.\
+
+**Average fixed cost** (AFC) the fixed cost divided by
+the units of output produced: $$AFC = FC/q$$. \
+
+**Average variable cost** (AVC) the variable cost divided
+by the units of output produced: $$AVC = VC/q$$. \
+
+**Average total cost** (ATC) is the total cost divided by
+the units of output produced: $$ATC = TC/q = FC/q + VC/q $$. \
+
+
+![Cost table]({{site.baseurl}}/assets/images/cost_table.png)
+
+
+![Cost graph]({{site.baseurl}}/assets/images/cost_graph.png)
+
+### Short Run Cost Curves
+
+Our short run production function $$ q = F(L, \bar{K}) $$, where  capital is fixed. \
+Cost of producing any given quantity $$ TC = r*\bar{K} + w*L $$, where __r__ is renting price of the capital(per period cost of using a unit of capital) and __w__ is the price of the labor.
+
+$$ MC = w * \frac{\Delta L}{\Delta q} \quad (1)$$, since we defined $$MP_L = \frac{\Delta q}{\Delta L}$$, we then can rewrite equation (1) as $$ MC = w* \frac{1}{MP_L} $$. We can see that **marginal cost** moves inversely with **marginal product of labor**. It happens because, the more producte one additional worker, the cheaper it will be to produce one additional item.
+
+### Long Run Cost Curves
+
+In the long run capital and labor are variable inputs, so the firm should decide how much capital and labor it will need to produce given quantity of good. \
+
+#### Isocost
+
+Isocost curve is the combination of Labor and Capital that yield us the same cost.
+
+$$ C = r*K + w*L $$.
+
+![Cost graph]({{site.baseurl}}/assets/images/isocost.png)
+
+The point that minimizes your cost as a firm is the tangency between your isoquant and your isocost.
+
+![Cost minimization]({{site.baseurl}}/assets/images/cost_minimization.png)
+
+
+The optimal bundle of labor and capital, **given the quantity of goods**, company going to produce is found by equation $$ -\frac{MP_L}{MP_K} = -\frac{w}{r} $$.
