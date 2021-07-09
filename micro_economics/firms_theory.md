@@ -76,25 +76,26 @@ which yield the same level of output.
 ## Costs
 
 **Fixed cost** (FC) is a production expense that
-does not vary with output. \
+does not vary with output.
+
 
 **variable cost** (VC) a production expense that changes with the quantity
-of output produced. \
+of output produced.
 
 **Cost** (total cost, TC) the sum of a firm’s variable cost and fixed cost:
-$$TC = FC + VC$$. \
+$$TC = FC + VC$$.
 
 **Marginal cost** (MC) the amount by which a firm’s cost changes if the firm produces one more
-unit of output. $$ MC = \frac{\Delta C}{\Delta q}$$.\
+unit of output. $$ MC = \frac{\Delta C}{\Delta q}$$.
 
 **Average fixed cost** (AFC) the fixed cost divided by
-the units of output produced: $$AFC = FC/q$$. \
+the units of output produced: $$AFC = \frac{FC}{q}$$.
 
 **Average variable cost** (AVC) the variable cost divided
-by the units of output produced: $$AVC = VC/q$$. \
+by the units of output produced: $$AVC = \frac{VC}{q}$$.
 
 **Average total cost** (ATC) is the total cost divided by
-the units of output produced: $$ATC = TC/q = FC/q + VC/q $$. \
+the units of output produced: $$ATC = \frac{TC}{q} = \frac{FC}{q} + \frac{VC}{q} $$.
 
 
 ![Cost table]({{site.baseurl}}/assets/images/cost_table.png)
@@ -108,6 +109,10 @@ Our short run production function $$ q = F(L, \bar{K}) $$, where  capital is fix
 Cost of producing any given quantity $$ TC = r*\bar{K} + w*L $$, where __r__ is renting price of the capital(per period cost of using a unit of capital) and __w__ is the price of the labor.
 
 $$ MC = w * \frac{\Delta L}{\Delta q} \quad (1)$$, since we defined $$MP_L = \frac{\Delta q}{\Delta L}$$, we then can rewrite equation (1) as $$ MC = w* \frac{1}{MP_L} $$. We can see that **marginal cost** moves inversely with **marginal product of labor**. It happens because, the more producte one additional worker, the cheaper it will be to produce one additional item.
+
+#### Example
+
+![Printer]({{site.baseurl}}/assets/images/printer.png)
 
 ### Long Run Cost Curves
 
@@ -123,7 +128,26 @@ $$ C = r*K + w*L $$.
 
 The point that minimizes your cost as a firm is the tangency between your isoquant and your isocost.
 
+#### Cost minimization
+
+![Cost minimization]({{site.baseurl}}/assets/images/isocost_isoquants.png)
+
+
 ![Cost minimization]({{site.baseurl}}/assets/images/cost_minimization.png)
 
 
 The optimal bundle of labor and capital, **given the quantity of goods**, company going to produce is found by equation $$ -\frac{MP_L}{MP_K} = -\frac{w}{r} $$.
+
+#### Change in factor price
+
+![Cost minimization]({{site.baseurl}}/assets/images/isocost_change.png)
+
+
+#### Expansion path
+
+![Cost minimization]({{site.baseurl}}/assets/images/expansion_path.png)
+
+#### Long run cost curve
+
+![Short run cost curve]({{site.baseurl}}/assets/images/short_run_cost.png)
+
