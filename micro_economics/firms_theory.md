@@ -130,7 +130,7 @@ The point that minimizes your cost as a firm is the tangency between your isoqua
 
 #### Cost minimization
 
-![Cost minimization]({{site.baseurl}}/assets/images/isocost_isoquants.png)
+![Cost minimization]({{site.baseurl}}/assets/images/isocost_isoquant.png)
 
 
 ![Cost minimization]({{site.baseurl}}/assets/images/cost_minimization.png)
