@@ -60,6 +60,37 @@ Main materials are taken from:
 - Week 11: Capital Markets
 
 
+## Homework
+
+### Second Homework
+
+[Link for uploading essay](https://forms.gle/td6uZoCVAGkEo9Zz6).
+
+Requirements:
+- Essay on any given topic should be written in **English**
+- The length should be 2000 words minimum.
+- There should be 80% of originality. The essays will be checked for plagiarism.
+- The essays would be graded on clarity and logical reasoning.
+
+Consumer Theory:
+- Does the maximization of utility imply happiness?
+- What is more important in deciding a best bundle: preferences or constraints?
+- “The rational choice model is too restrictive in its characterization of individual behavior.” Argue for or against this statement.
+- “The opportunity cost of leisure is not labor but rather hell.” Argue for or against this statement.
+
+Firms theory:
+- Is competition a process or a market structure?
+- “Perfect competition is neither.” Argue for or against this statement.
+- Do firms really maximize profit?
+- “The neoclassical characterization of the firm as an optimizing entity subject to constraints is too restrictive a characterization of the modern business enterprise.” Argue for or against this statement.
+
+Reports:
+- Taxation as the solution for obesity problem.
+- Friedman, Milton “The Social Responsibility of Business is to Increase Its Profits” New York Times Magazine, September 13, 1970.
+- Handy, Charles “What is a Business For?” Harvard Business Review December 2002.
+- Consumer Theory: Rabin, Matthew “Psychology and Economics” Journal of Economic Literature, Vol. 36 March 1998, pages 11-46.
+- Theory of the Firm: Penrose, Edith “The Firm in Theory” in The Theory of the Growth of the Firm 3e Oxford University Press, 1995, pages 9-30.
+
 ## Grading
 
 Please refer to [Gradebook](https://docs.google.com/spreadsheets/d/1p3BkXIsu_efolhlD7_9Ox0yWMbYO2YP-O5CXB9CToAc/edit?usp=sharing) for detailed and uptodate information on the grading.

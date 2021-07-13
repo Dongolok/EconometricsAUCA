@@ -20,3 +20,67 @@ Perfectly competitive markets have five characteristics that force firms to be p
 3. All market participants have full information about price and product characteristics.
 4. Transaction costs are negligible.
 5. Firms can easily enter and exit the market.
+
+## Residula Demand
+
+In competetive markets firms face perfectly
+elastic demand. However, that doesn't mean the demand for the good is perfectly elastic.
+It just means demand facing any firm is perfectly elastic.
+
+![Residual demand]({{site.baseurl}}/assets/images/residual_demand.png)
+
+An individual firm faces a residual demand curve: the market demand that is not
+met by other sellers at any given price. The firm’s residual demand function, $$D^{r}(p)$$,
+shows the quantity demanded from the firm at price p. A firm sells only to people
+who have not already purchased the good from another seller. We can determine the
+quantity that a particular firm can sell at each possible price using the market demand
+curve and the supply curve for all other firms in the market. The quantity the market
+demands is a function of the price: $$Q = D(p)$$.
+
+The supply curve of the other firms
+is $$S^{0}(p)$$. The residual demand function equals the market demand function, $$D(p)$$,
+minus the supply function of all other firms:
+$$D^{r}(p) = D(p) - S^{0}(p)$$.
+At prices so high that the amount supplied by other firms, $$S^{0}(p)$$, is greater than the
+quantity demanded by the market, $$D(p)$$, the residual quantity demanded, $$D^{r}(p)$$, is zero.
+
+Let's compute elasticities from the formula (1), by differentiating both sides by price. We get
+$$\frac{dD^{r}}{dp} = \frac{dD}{dp} - \frac{dS^{0}}{dp}$$.
+
+In a market with n identical firms, the elasticity of demand, ei, facing Firm i is
+
+$$\varepsilon_i = n\varepsilon - (n - 1)\eta_0$$,
+
+where $$\varepsilon$$ is the market elasticity of demand (a negative number), $$\eta_0$$ is the elasticity of
+supply of the other firms (typically a positive number), and $$n - 1$$ is the number of other firms. $$q = \frac{Q}{n}$$ is the demand of one firm, rest of supply is given by $$S^{0} = (n-1)q $$
+
+### Example
+
+The Canadian metal chair manufacturing market has n = 78 firms. The estimated elasticity of supply is $$\eta$$ = 3.1, and the estimated elasticity of demand is $$\epsilon$$ = -1.1.
+Assuming that the firms are identical, calculate the elasticity of demand facing a single firm. Is its residual demand curve highly elastic?
+
+
+From the example we can see, that though market has not high elasticity of demand, however the elasticity of demand for individual firm is extremely elastic.
+
+
+## Short run profit maximization for a firm
+
+We assume that in the short-run no entry and exit.
+
+Profit is Revenue minus Cost, or in mathematical terms,
+
+$$ \Pi (p) = R(q) - C(q) $$.
+
+The profit maximizing firm is always going to set marginal revenue equal to marginal cost. In a competitive market the marginal revenue company earn on the next unit that it sells is a market price.
+
+Basically, in the competitive market the profit maximizing condition
+is simply the marginal cost should be equal to the market price.
+
+So, knowing the price, firm will produce untill marginal cost will be equal to the price.
+
+![SR profit maximization]({{site.baseurl}}/assets/images/sr_profit_max.png)
+
+
+![SR profit maximization]({{site.baseurl}}/assets/images/sr_profit_max_mc.png)
+
+![SR profit maximization]({{site.baseurl}}/assets/images/sr_profit_tax.png)
