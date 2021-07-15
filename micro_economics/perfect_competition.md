@@ -84,3 +84,72 @@ So, knowing the price, firm will produce untill marginal cost will be equal to t
 ![SR profit maximization]({{site.baseurl}}/assets/images/sr_profit_max_mc.png)
 
 ![SR profit maximization]({{site.baseurl}}/assets/images/sr_profit_tax.png)
+
+__Shutdown rule__: $$ p < AVC$$
+
+
+## Deriving The Short Run Supply Curve
+
+At each price, the firm is choosing to set the marginal cost equal to that price.
+
+![SR supply curve]({{site.baseurl}}/assets/images/sr_supply_curve.png)
+
+
+![SR supply curve market]({{site.baseurl}}/assets/images/sr_supply_curve_market.png)
+
+
+**The supply curve is the firm's marginal cost curve.**
+
+Profit maximization drives the firm to set the marginal cost equal to price.
+So the firm's marginal cost curve is the firm's supply curve.
+
+Market supply is going to be the horizontal sum, the horizontal sum of the firms' supply.
+
+# Long-Run Perfect Competition
+
+Distinction between short-run perfect competition:
+- - Short-run shutdown rule dictates us that, when $$p < AVC$$, we stop producing.
+- - Long-run shutdown rule dictates us that, when $$ p <AC $$ , we stop producing.
+- Entry and Exit
+
+In a competitive market, firms will enter if there's profits being made
+and exit if there's profits money being lost.
+
+
+![LR supply curve market]({{site.baseurl}}/assets/images/lr_dell.png)
+
+
+![LR supply curve market]({{site.baseurl}}/assets/images/lr_ibm.png)
+
+![LR supply curve market]({{site.baseurl}}/assets/images/sr_supply_curve.png)
+
+In the long run, in a perfectly competitive market,
+firms will enter and exit until profits are zero. Entry and exit for firms in a competitive market drives profits to zero.
+
+
+![LR supply curve market]({{site.baseurl}}/assets/images/lr_cotton.png)
+
+**Long-Run Market Supply When Input Prices Vary with Output.**
+
+ A reason why long-run market supply curves may slope upward is non-constant input prices.
+In markets where factor prices rise when output increases, the long-run supply curve
+slopes upward even if firms have identical costs and can freely enter and exit.
+
+
+![LR supply curve market]({{site.baseurl}}/assets/images/lr_price.png)
+
+# Economies of Scope
+
+__Scope__ is the range of products that firm produce.
+An economy of scope is when, if firm produce two goods,
+how does it compare to the efficiency of just producing
+one good.
+
+Production possibilities frontier(PPF)
+shows the maximum combination of outputs
+that can be produced for any combination of inputs.
+
+![Scope]({{site.baseurl}}/assets/images/scope.png)
+
+
+![Scope1]({{site.baseurl}}/assets/images/scope1.png)
