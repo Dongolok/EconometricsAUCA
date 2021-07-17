@@ -31,3 +31,14 @@ above and beyond what they paid.
 
 ![Residual demand]({{site.baseurl}}/assets/images/max_soc.png)
 
+
+## Example
+
+
+![Roses]({{site.baseurl}}/assets/images/roses.png)
+
+![Soybean]({{site.baseurl}}/assets/images/soybean.png)
+
+
+![taxi]({{site.baseurl}}/assets/images/taxi.png)
+
