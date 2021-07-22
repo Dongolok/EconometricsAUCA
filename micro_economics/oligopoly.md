@@ -2,10 +2,12 @@
 sort: 9
 ---
 
+# Oligopoly
+
+
 __People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or some contrivance to raise prices__ — Adam Smith, 1776.
 
 
-# Oligopoly
 
 Oligopolistic firms may act independently or may coordinate their actions. A group
 of firms that explicitly agree (collude) to coordinate their activities is called a cartel.
