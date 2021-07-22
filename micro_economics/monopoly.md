@@ -87,3 +87,23 @@ Because if a market demand for the good is very elastic, then big increase in pr
 ## Market Welfare
 
 ![Monopoly market]({{site.baseurl}}/assets/images/monopoly_market_welfare.png)
+
+
+### Monopoly example
+
+![Toys]({{site.baseurl}}/assets/images/toys.png)
+
+## Natural Monopoly
+
+Monopolies can arise in various ways:
+- Cost advantage. A firm can produce efficiently than any other firm at any given quantity produced.
+- Government actions: patent. Deadweight loss occurs, when firm get it's patent.
+
+![Patent1]({{site.baseurl}}/assets/images/patent1.png)
+
+
+![Patent2]({{site.baseurl}}/assets/images/patent2.png)
+
+### Regulating monopolies
+
+![Regulating monopolies]({{site.baseurl}}/assets/images/regulating_monopolies.png)
