@@ -1,4 +1,4 @@
-# Syllabus on doing econometrics with R
+# Collaboratative Teaching Materials Platform
 
 ![AUCA](/assets/images/auca.png)
 
@@ -18,9 +18,9 @@ This is syllabus for students to navigate through debris of Econometrics theory.
 - Intuition better than formulas
 - Simple words better scientific jargon
 
-## Software 
+## Software
 
-You can use [Kaggle](https://www.kaggle.com) online platform to try some codeblock from materials. 
+You can use [Kaggle](https://www.kaggle.com) online platform to try some codeblock from materials.
 
 ## Contribution
 
