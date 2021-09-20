@@ -4,8 +4,8 @@ comments: true
 
 # Data Vizualization
 
-## Content
-{% include list.liquid all=true %}
+
+
 
 ## Course Description
 
@@ -23,6 +23,7 @@ Lectures and seminars will be held on Thursday at 18:30
 - [Gradebook](https://docs.google.com/spreadsheets/d/1_ET6w2C2hwyl9jv84EgF3Ohk_7JFSgd-wbL_5yQ5b2M/edit?usp=sharing)
 - [Telegram group](https://t.me/joinchat/6iN7NojG-pRkZWY6)
 - [Gdrive with course materials](https://drive.google.com/drive/folders/1aLNDoujhMs-WBsiJXtQowPUt8w2nUwm5?usp=sharing)
+
 ## Course schedule
 Course schedule  is every Thursday at 18.30.
 
@@ -50,10 +51,11 @@ Main materials are taken from:
 
 ## Lectures/Seminars
 
+{% include list.liquid all=true %}
 
 ## Homework
 
-### Second Homework
+
 
 
 

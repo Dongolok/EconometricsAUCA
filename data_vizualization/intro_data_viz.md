@@ -1,6 +1,7 @@
 # Introduction to Data Visualization
 
-[Presentation](https://drive.google.com/file/d/1W5AuND2S-r5JM4CZ4upXWrJJ_Rb-Xs7P/view?usp=sharin]
+
+[Presentation](https://drive.google.com/file/d/1W5AuND2S-r5JM4CZ4upXWrJJ_Rb-Xs7P/view?usp=sharin)
 
 
 ## Additional Materials
