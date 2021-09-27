@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# Data Analytics
+# Data Analytics with Python
 
 
 ## Course Description
@@ -11,7 +11,9 @@ Course is lectured for AUCA students. The course is devoted to the practice of d
 
 Instructor: Ilias Suvanov
 
-
+```note
+There is no need to install Python to your local machine, you can directly use Python through [Google Colab Service](https://colab.research.google.com/)
+```
 
 ## Course metadata
 - Instructor: Ilias Suvanov
@@ -21,6 +23,7 @@ Instructor: Ilias Suvanov
 - [Gradebook](https://docs.google.com/spreadsheets/d/16Ct_f3S65stVq6GVyAS_eH4MqGy1ijhHGaXo7fFdKUE/edit?usp=sharing)
 - [Telegram group](https://t.me/joinchat/-MypL_cqL2IxM2I6)
 - [GitHub repositoy with course materials](https://github.com/IliasSuvanov/DataAnalyticsPython)
+
 
 ## Course schedule
 Lectures and seminars will be held every Monday at 18:30 Bishkek time.
@@ -53,11 +56,9 @@ Main materials are taken from:
 
 Please refer to [Gradebook](https://docs.google.com/spreadsheets/d/16Ct_f3S65stVq6GVyAS_eH4MqGy1ijhHGaXo7fFdKUE/edit?usp=sharing) for detailed and uptodate information on the grading.
 
-- Participiation - 20 points
-- Attendance - 20 points
-- Homeworks - 30 points
-- Midterm - 15 points
-- Final 15 points
+- Project Works - 40 points
+- Midterm - 10 points
+- Final - 20 points
 
 ```warning
 Instructor reserves the right to require any course participant to sit for an individual oral examination (with turned on webcam and mic) before submitting the final grade to the registrar. Refusal to sit for an individual oral examination by a course participant, may result in failing the course. Instructor will notify potential course participants about the oral examination one week prior the course completion.
